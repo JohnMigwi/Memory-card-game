@@ -49,7 +49,6 @@ function generateGameBoard() {
         cardItem.appendChild(symbolsItem);
         cardDeck.appendChild(cardItem);
         // console.log(cardDeck);
-
     });
 
 };
