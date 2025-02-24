@@ -203,7 +203,7 @@ function rating() {
 
 }
 
-// funcation to track time for game
+// function to track time for game
 
  function timer() {
    
@@ -215,7 +215,6 @@ function rating() {
     });
 
 };
-
 
 
 // fire function

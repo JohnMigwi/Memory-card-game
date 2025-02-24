@@ -48,13 +48,11 @@ body {
     font-size: 1.2em; 
 }
 
-
-/* Header styling */
 header h1,
 header h2,
 header h3,
 header h4 {
-    font-size: 1.5rem; /* Same font size */
+    font-size: 1.5rem; 
     color: #02ccba;
     margin: 5px 0;
     position: relative;
@@ -74,8 +72,6 @@ header h3 {
 header h4 {
     left: 15%;
 }
-
-/* Subtle hover effect */
 header h1:hover,
 header h2:hover,
 header h3:hover,
@@ -91,8 +87,6 @@ header h4:hover {
     flex-direction: column;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-
-
 
 .deck {
     width: 660px;
@@ -185,9 +179,7 @@ header h4:hover {
         width: 80%;
         max-width: 400px;
         border-radius: 10px;
-
 }
-
 .close {
     color: #000;
     float: right;
@@ -197,7 +189,7 @@ header h4:hover {
 
 .close:hover,
 .close:focus {
-    color: #fff;
+    color: #ee1313;
     text-decoration: none;
     cursor: pointer;
 }
