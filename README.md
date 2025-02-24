@@ -13,6 +13,8 @@ Final project developed using HTMl, CSS, JavaScript.
 
 4-The trick is to use your memory and try to remember which cards are where.
 
+5. After completion the card reshuffle 
+
 
 ## Reference
 
